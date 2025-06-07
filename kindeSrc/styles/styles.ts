@@ -15,7 +15,7 @@ const kindeVariables = {
 
 export const getStyles = (): string => `
   :root {
-    --kinde-base-font-family: ${kindeVariables.baseFontFamily};
+    --kinde-base-font-family: ${kindeVariables.Inter};
     --kinde-control-select-text-border-radius: ${kindeVariables.controlSelectTextBorderRadius};
     --kinde-button-primary-background-color: ${kindeVariables.buttonPrimaryBackgroundColor};
     --kinde-button-primary-color: ${kindeVariables.buttonPrimaryColor};
