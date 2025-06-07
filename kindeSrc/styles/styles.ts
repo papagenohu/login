@@ -3,7 +3,7 @@ const kindeVariables = {
   baseFontFamily:
     "Inter, system-ui, BlinkMacSystemFont, Helvetica, Arial, Segoe UI, Roboto, sans-serif",
   controlSelectTextBorderRadius: "99px",
-  buttonPrimaryBackgroundColor: "e62b0a",
+  buttonPrimaryBackgroundColor: "#e62b0a",
   buttonPrimaryColor: "#fff",
   buttonBorderRadius: "99px",
   buttonSecondaryBackgroundColor: "#fff",
