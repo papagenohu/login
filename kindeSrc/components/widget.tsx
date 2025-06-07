@@ -28,7 +28,7 @@ export const Widget = (props: { heading: string; description: string }) => {
   return (
     <main style={styles.loginForm}>
       <div style={{ padding: "2rem" }}>
-        <img src="/login/cafe_4_pplogo_1280.jpg" alt="Logo" style={{ width: "120px", marginBottom: "1rem" }} />
+        <img src="public/login/cafe_4_pplogo_1280.jpg" alt="Logo" style={{ width: "120px", marginBottom: "1rem" }} />
         <h2 style={styles.heading}>{props.heading}</h2>
         <p style={styles.description}>{props.description}</p>
         {getKindeWidget()}
